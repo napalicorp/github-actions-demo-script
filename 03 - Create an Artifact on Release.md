@@ -1,10 +1,3 @@
----
-tags: [GithubActions Demo Script]
-title: 03 - Create an Artifact on Release
-created: '2020-06-27T09:13:44.094Z'
-modified: '2020-06-27T09:23:24.951Z'
----
-
 # 03 - Create an Artifact on Release
 
 ## Produce and Artifact

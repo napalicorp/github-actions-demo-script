@@ -1,10 +1,3 @@
----
-tags: [GithubActions Demo Script]
-title: 07 - Production Swap
-created: '2020-06-27T09:42:04.567Z'
-modified: '2020-06-27T09:47:15.168Z'
----
-
 # 07 - Production Swap
 ## Swap Staging/Production slot on Release != "pre-release"
 1. Product slot swap happens when Release is edited to uncheck **pre-release**

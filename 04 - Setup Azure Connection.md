@@ -1,9 +1,3 @@
----
-tags: [GithubActions Demo Script]
-title: 04 - Setup Azure Connection
-created: '2020-06-27T09:23:31.359Z'
-modified: '2020-06-30T10:38:39.813Z'
----
 
 # 04 - Setup Azure Connection
 

@@ -1,10 +1,3 @@
----
-tags: [GithubActions Demo Script]
-title: 02 - Approval Workflow
-created: '2020-06-27T08:52:47.105Z'
-modified: '2020-06-27T09:40:41.383Z'
----
-
 # 02 - Approval Workflow
 
 ## Create a new Workflow for Pull Request Approvals

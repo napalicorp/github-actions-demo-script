@@ -1,10 +1,3 @@
----
-tags: [GithubActions Demo Script]
-title: 01 - Introduction
-created: '2020-06-27T08:53:49.588Z'
-modified: '2020-06-27T08:56:12.321Z'
----
-
 # 01 - Introduction
 
 - GitHub Actions were originally developed as a repository automation tool.

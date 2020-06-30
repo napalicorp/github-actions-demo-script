@@ -1,10 +1,3 @@
----
-tags: [GithubActions Demo Script]
-title: 06 - Deploy Web App
-created: '2020-06-27T09:37:31.235Z'
-modified: '2020-06-28T02:39:20.837Z'
----
-
 # 06 - Deploy Web App
 
 ## Deploy artifact to created web app

@@ -1,5 +1,5 @@
 # TABLE OF CONTENTS
-- [01 - Introduction](.\01&#32;-&#32;Introduction.md)
+- [01 - Introduction](01&#32;-&#32;Introduction.md)
 - [02 - Approval Workflow](02&#32;-&#32;Approval&#32;Workflow.md)
 - [03 - Branch Policy](03&#32;-&#32;Branch&#32;Policy.md)
 - [03 - Create an Artifact on Release](03&#32;-&#32;Create&#32;an&#32;Artifact&#32;on&#32;Release.md)

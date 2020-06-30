@@ -1,10 +1,3 @@
----
-tags: [GithubActions Demo Script]
-title: 08 - Custom Action
-created: '2020-06-27T09:47:36.112Z'
-modified: '2020-06-27T10:00:38.708Z'
----
-
 # 08 - Custom Action
 
 ## Intro to Action

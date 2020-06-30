@@ -1,10 +1,3 @@
----
-tags: [GithubActions Demo Script]
-title: 09 - Use "Cred Scanner" Action
-created: '2020-06-27T10:00:59.299Z'
-modified: '2020-06-27T10:05:56.339Z'
----
-
 # 09 - Use "Cred Scanner" Action
 1. Create new PR: `.github/workflows/approval-wf.yml` to include the action as below:
 ```

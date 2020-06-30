@@ -1,10 +1,3 @@
----
-tags: [GithubActions Demo Script]
-title: 03 - Branch Policy
-created: '2020-06-27T09:21:44.587Z'
-modified: '2020-06-27T09:22:17.867Z'
----
-
 # 03 - Branch Policy
 ## Create a Branch Policy that uses the Approval Workflow
 1. Navigate to `Settings -> Branches -> Add Rule`

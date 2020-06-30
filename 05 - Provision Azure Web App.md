@@ -1,10 +1,3 @@
----
-tags: [GithubActions Demo Script]
-title: 05 - Provision Azure Web App
-created: '2020-06-27T09:31:39.649Z'
-modified: '2020-06-27T09:36:59.632Z'
----
-
 # 05 - Provision Azure Web App
 ## Create and Apply ARM template
 1. Open `VS Code` and show `Azure Resource Manager Tools` extension
